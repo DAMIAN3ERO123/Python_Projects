@@ -1,4 +1,4 @@
-from dictionries import MENU, resources
+from dictionaries import MENU, resources
 from art import logo
 
 
